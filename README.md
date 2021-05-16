@@ -1,4 +1,4 @@
-Hi, I'am Khoi, 
-I from VN, 
-I'm an angular developer and 
- + frontend developer 
+Hi, 
+My name is Khoi,
+I'm a Frontend Developer
+Curently I work at VietNam
